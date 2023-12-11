@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Memories</string>
+    <string name="title_App">Memories</string>
+    <string name="messageApp">Create Your Memories Here!</string>
+    <string name="login">Masuk\n</string>
+    <string name="signup">Daftar</string>
+    <string name="title_login">Silahkan masukkan data anda</string>
+    <string name="email">Email</string>
+    <string name="password">Kata Sandi</string>
+    <string name="title_signup">Yuk, isi datamu dulu!</string>
+    <string name="name">Nama\n</string>
+    <string name="logout">Keluar\n</string>
+    <string name="field_error_null" translatable="false">Text harus diisi</string>
+    <string name="email_error_validation" translatable="false">Email Tidak Valid</string>
+
+</resources>

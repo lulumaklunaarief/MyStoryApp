@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background">#cccbc8</color>
+
+    <color name="primarycolor">#363A43</color>
+    <color name="secondary_color" tools:ignore="MissingDefaultResource">#7A8089</color>
+
+    <color name="error_color">#F72400</color>
+
+    <color name="divider_color">#EAEAEA</color>
+</resources>
