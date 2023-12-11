@@ -12,5 +12,12 @@
     <string name="logout">Keluar\n</string>
     <string name="field_error_null" translatable="false">Text harus diisi</string>
     <string name="email_error_validation" translatable="false">Email Tidak Valid</string>
+    <string name="deskripsi">deskripsi</string>
+    <string name="unggah_cerita">unggah cerita</string>
+    <string name="galeri">galeri</string>
+    <string name="unggah">unggah\n</string>
+    <string name="ambil_gambar">ambil gambar</string>
+    <string name="ulang">ulangi</string>
+    <string name="userName">User name</string>
 
 </resources>
